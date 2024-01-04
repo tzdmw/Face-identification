@@ -1,0 +1,9 @@
+D:/software/QT/8/cam/cmake-build-release/CMakeFiles/cam.dir
+D:/software/QT/8/cam/cmake-build-release/CMakeFiles/edit_cache.dir
+D:/software/QT/8/cam/cmake-build-release/CMakeFiles/rebuild_cache.dir
+D:/software/QT/8/cam/cmake-build-release/CMakeFiles/list_install_components.dir
+D:/software/QT/8/cam/cmake-build-release/CMakeFiles/install.dir
+D:/software/QT/8/cam/cmake-build-release/CMakeFiles/install/local.dir
+D:/software/QT/8/cam/cmake-build-release/CMakeFiles/install/strip.dir
+D:/software/QT/8/cam/cmake-build-release/CMakeFiles/cam_autogen_timestamp_deps.dir
+D:/software/QT/8/cam/cmake-build-release/CMakeFiles/cam_autogen.dir

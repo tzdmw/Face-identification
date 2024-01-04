@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>camera.ico</file>
+        <file>camera_clicked.png</file>
+    </qresource>
+</RCC>

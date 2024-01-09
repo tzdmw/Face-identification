@@ -1,9 +1,8 @@
-D:/software/QT/8/cam/cmake-build-debug/CMakeFiles/cam.dir
-D:/software/QT/8/cam/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/software/QT/8/cam/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-D:/software/QT/8/cam/cmake-build-debug/CMakeFiles/list_install_components.dir
-D:/software/QT/8/cam/cmake-build-debug/CMakeFiles/install.dir
-D:/software/QT/8/cam/cmake-build-debug/CMakeFiles/install/local.dir
-D:/software/QT/8/cam/cmake-build-debug/CMakeFiles/install/strip.dir
-D:/software/QT/8/cam/cmake-build-debug/CMakeFiles/cam_autogen_timestamp_deps.dir
-D:/software/QT/8/cam/cmake-build-debug/CMakeFiles/cam_autogen.dir
+D:/software/QT/face+eye/eye_face/cmake-build-debug/CMakeFiles/eye_face.dir
+D:/software/QT/face+eye/eye_face/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/software/QT/face+eye/eye_face/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/software/QT/face+eye/eye_face/cmake-build-debug/CMakeFiles/list_install_components.dir
+D:/software/QT/face+eye/eye_face/cmake-build-debug/CMakeFiles/install.dir
+D:/software/QT/face+eye/eye_face/cmake-build-debug/CMakeFiles/install/local.dir
+D:/software/QT/face+eye/eye_face/cmake-build-debug/CMakeFiles/install/strip.dir
+D:/software/QT/face+eye/eye_face/cmake-build-debug/CMakeFiles/eye_face_autogen.dir
